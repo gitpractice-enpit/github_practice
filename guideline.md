@@ -1,4 +1,8 @@
 ## 自習ガイドライン
+### 注意：
+* このテキストにはオススメする自習の流れが書かれています。
+* GitやGithubの詳細な説明はありません。GitやGithubについては参考資料等をみながら各自調べましょう。
+* 各レッスンで課題を出しています。成績には影響しませんが、5/17の講義準備で参考にします。是非提出してください。（超簡単です）
 
 ## Lesson 1 : 環境を整えよう
 
@@ -14,23 +18,23 @@
   * 動画ではSourceTreeを使うことが前提になっています。
 
 ### 課題
-* Githubアカウントを[manaba]()でお知らせ下さい
+* Githubアカウントを[manaba](https://manaba.tsukuba.ac.jp/ct/course_785019_query_798012)でお知らせ下さい
   * Github演習のためのグループ（http://github.com/gitpractice-enpit）に追加します
 
 ## Lesson 2 : ローカルレポジトリを作ってGithubにあげよう
-1. ローカルレポジトリを作ってみましょう
+1. ローカルレポジトリを作りましょう
 2. ファイルを作って中身を適当に書き、ステージに上げてコミットしてみよう
 3. さらに何か書いたり消したりしてコミットしてみよう
-4. 前のコミットなどに戻ってみたりしましょう
-5. [Githubでリモートレポジトリをつくり、ローカルレポジトリをリモートにあげよう](doc/remoteadd.md)
+4. [Githubでリモートレポジトリをつくり、ローカルレポジトリをリモートにあげよう](doc/remoteadd.md)
 
 ### 参考資料
 * 「Git and Github集中特訓」の動画（６〜９本目）
   * Lesson2の1-4までしか解説されてません
   * 5についてはリンク先のページを参考になんかやってみてください。
+* [Gitコマンド派のLesson2メモ帳](gitcmd/lesson2.md)
 
 ### 課題
-* GithubにあげたレポジトリのURLを[manaba]()でお知らせ下さい。
+* GithubにあげたレポジトリのURLを[manaba](https://manaba.tsukuba.ac.jp/ct/course_785019_query_798028)でお知らせ下さい。
 
 ## Lesson 3: リモートレポジトリをフォークしていじろう
 1. http://github.com/gitpractice-enpit/practicememo.gitをフォークしよう
@@ -43,7 +47,7 @@
 * 「Git and Github集中特訓」の動画（１０〜１６本目）
 
 ### 課題
-* フォークしたURLを[manaba]()で教えてください	
+* フォークしたURLを[manaba](https://manaba.tsukuba.ac.jp/ct/course_785019_query_798034)で教えてください	
 
 ## Lesson 4: プルリクエストを送ろう
 1. http://github.com/gitpractice-enpit/practicememo.gitにプルリクエストを送ろう
@@ -73,7 +77,7 @@
 * 「Git and Github集中特訓」の動画（２０〜２２本目）
 
 ### 課題
-* 特になし
+* (近日だす予定)
 
 ## Lesson 7: Fork使わないプルリクをしよう
 （近日公開予定）
