@@ -1,12 +1,14 @@
 ## 自習ガイドライン
 ### 注意：
-* このテキストにはオススメする自習の流れが書かれています。
+* このテキストにはe-Learning動画コンテンツを元にした自習の流れが書かれています。
 * GitやGithubの詳細な説明はありません。GitやGithubについては参考資料等をみながら各自調べましょう。
 * 各レッスンで課題を出しています。成績には影響しませんが、5/17の講義準備で参考にします。是非提出してください。（超簡単です）
 
 ## Lesson 1 : 環境を整えよう
 
-1. URLとアカウント情報は[manaba]()から入手してください（enPiT履修者限定のため）
+1. e-Learning動画コンテンツを入手する
+ * URLとアカウント情報は[manaba](https://manaba.tsukuba.ac.jp/ct/page_785369c785019_805428805)から入手のこと（enPiT履修者限定のため）
+ * 以下動画を使いながら自習すると良いでしょう
 2. Githubのアカウントを作成
 3. Gitを使う環境を整える
    * GUI派の皆さん：SourceTreeをインストール
@@ -18,8 +20,10 @@
   * 動画ではSourceTreeを使うことが前提になっています。
 
 ### 課題
-* Githubアカウントを[manaba（筑波大生）](https://manaba.tsukuba.ac.jp/ct/course_785019_query_798012)[manaba(参加校生)](https://manaba.tsukuba.ac.jp/local/course_785019_query_798012) でお知らせ下さい
-  * Github演習のためのグループ（http://github.com/gitpractice-enpit）に追加します
+* Githubアカウントをmanabaでお知らせ下さい
+	* [manabaの課題へのリンク（筑波大生用）](https://manaba.tsukuba.ac.jp/ct/course_785019_query_798012)
+	* [manabaの課題へのリンク(参加校生)](https://manaba.tsukuba.ac.jp/local/course_785019_query_798012)  
+	* Github演習のためのグループ（http://github.com/gitpractice-enpit）に追加します
 
 ## Lesson 2 : ローカルレポジトリを作ってGithubにあげよう
 1. ローカルレポジトリを作りましょう
@@ -35,10 +39,12 @@
 * [Gitコマンド派のLesson2メモ帳](gitcmd/lesson2.md)
 
 ### 課題
-* GithubにあげたレポジトリのURLを[manaba(筑波大生)](https://manaba.tsukuba.ac.jp/ct/course_785019_query_798028)[manaba(参加校生)](https://manaba.tsukuba.ac.jp/local/course_785019_query_798028)でお知らせ下さい。
+* GithubにあげたレポジトリのURLをmanabaでお知らせ下さい。
+	* [manabaの課題へのリンク(筑波大生)](https://manaba.tsukuba.ac.jp/ct/course_785019_query_798028)
+	* [manabaの課題へのリンク(参加校生)](https://manaba.tsukuba.ac.jp/local/course_785019_query_798028)
 
 ## Lesson 3: リモートレポジトリをフォークしていじろう
-1. http://github.com/gitpractice-enpit/practicememo.gitをフォークしよう
+1. http://github.com/gitpractice-enpit/practicememo.git をフォークしよう
 2. ローカルリポジトリにクローンしよう
 3. 自分用のメモファイルを追加してコミットしよう
   * ファイル名は他の人と衝突しないようなものにしておいたほうが良さげ（初心者向き）
@@ -48,7 +54,9 @@
 * 「Git and Github集中特訓」の動画（１０〜１６本目）
 
 ### 課題
-* フォークしたURLを[manaba(筑波大生)](https://manaba.tsukuba.ac.jp/ct/course_785019_query_798034)[manaba(参加校生)](https://manaba.tsukuba.ac.jp/local/course_785019_query_798034)で教えてください	
+* フォークしたURLを教えてください
+	* [manabaの課題へのリンク(筑波大生)](https://manaba.tsukuba.ac.jp/ct/course_785019_query_798034)
+	* [manabaの課題へのリンク(参加校生)](https://manaba.tsukuba.ac.jp/local/course_785019_query_798034)
 
 ## Lesson 4: プルリクエストを送ろう
 1. http://github.com/gitpractice-enpit/practicememo.gitにプルリクエストを送ろう
@@ -58,6 +66,7 @@
 
 ### 課題
 * プルリク送ってください
+  * プルリクきたらすぐにマージします。そしてcollaboratorに追加します。
 
 ## Lesson 5: リセットをしてみよう
 1. practicememoのローカルレポジトリのファイルをいじってステージに上げてそれをとり消そう
@@ -70,9 +79,10 @@
 * 特になし
 
 ## Lesson 6: ローカルでブランチを切ってマージしよう
-1. report<今日の日付>というブランチを作り、今日やったことのメモを追加しよう
-2. masterにマージしよう
-3. report<今日の日付>ブランチとマスターで衝突する更新をしてマージしよう。
+1. Lesson2で作ったレポジトリを使おう。
+2. developブランチを切って何か更新しよう
+3. masterにマージしよう
+4. developブランチとマスターで衝突する更新をしてマージしよう。
 
 ### 参考資料
 * 「Git and Github集中特訓」の動画（２０〜２２本目）

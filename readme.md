@@ -15,7 +15,6 @@
    * スキルチェック問題の解答状況をもとに、Githubを用いたチーム開発シミュレーションを実施します。
 * http://github.com/gitpractice-enpit について
 	* Git/Githubを勉強するためのSandboxとして提供します
-	  	* publicはもとよりprivateレポジトリも作れます 
 	* 下の自習ガイドラインのLesson1課題を次回までにやってください
 		* githubアカウントを登録します　 	  
 
