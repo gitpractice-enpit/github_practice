@@ -25,7 +25,8 @@
 
 ## 参考資料
 * 本レポジトリ（https://github.com/enpitut2017/github_practice）
-  * 随時追加していきます
+	* [自習ガイドライン](guideline.md)
+	* [やらかし対応集](doc/yarakashi.md)
 * Gitが、おもしろいほどわかる基本の使い方33
   * 著：大串肇ほか、出版社：MdNコーポレーション
   * https://www.amazon.co.jp/dp/B00Y2FKN9C
