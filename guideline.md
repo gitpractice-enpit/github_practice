@@ -119,6 +119,8 @@
 
 ### 課題
 * practicememoの誰のpull requestにどんなコメントをしたかmanabaに報告しましょう。
+  * [manaba(筑波大生用)](https://manaba.tsukuba.ac.jp/ct/course_785019_query_801980)
+  * [manaba(参加大生用)](https://manaba.tsukuba.ac.jp/local/course_785019_query_801980)
 
 ## Lesson 9: プルリクされたものをマージしよう
 （近日公開予定）
