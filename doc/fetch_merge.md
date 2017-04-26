@@ -3,13 +3,13 @@
 ### 何をやっているのか
 レポジトリをForkすると、その後Fork元が更新されたりして、Forkしてきたコードが古くなる場合があります。
 
-![](img/fork_merge2.png)
+![](img/fetch_merge2.png)
 
 ローカルレポジトリのブランチとマージするときは、その時masterを最新の状態にしてから
 マージするようにしましょう。
 
 ### masterをfork元の最新状態と同期してマージする手順
-![](img/fork_merge3.png)
+![](img/fetch_merge3.png)
 
 1. fork元に名前をつける（ここではupstreamという名前をつけている）
 
