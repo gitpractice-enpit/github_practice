@@ -83,7 +83,7 @@
 1. practicememoでdiaryブランチを作ろう
 2. diaryブランチにチェックアウトしてdiary/<アカウント名>.mdファイルを作って今日の作業メモを書いてコミットしよう
 3. masterにチェックアウトしてfork元のレポジトリをfetchしよう
-  * え、これ何やってるの？イミワカランという人は[こちら](doc/fork_merge.md)
+  * え、これ何やってるの？イミワカランという人は[こちら](doc/fetch_merge.md)
 4. masterにdiaryブランチをマージしよう
 
 ### 参考資料
