@@ -25,12 +25,12 @@
 	* [manabaの課題へのリンク(参加校生)](https://manaba.tsukuba.ac.jp/local/course_785019_query_798012)  
 	* Github演習のためのグループ（http://github.com/gitpractice-enpit）に追加します
 
-## Lesson 2 : ローカルレポジトリを作ってGithubにあげよう
-1. ローカルレポジトリを作りましょう
+## Lesson 2 : ローカルリポジトリを作ってGithubにあげよう
+1. ローカルリポジトリを作りましょう
 2. ファイルを作って中身を適当に書き、ステージに上げてコミットしてみよう
 3. さらに何か書いたり消したりしてコミットしてみよう
 4. コミット間の差分を見てみよう
-5. [Githubでリモートレポジトリをつくり、ローカルレポジトリをリモートにあげよう](doc/remoteadd.md)
+5. [Githubでリモートリポジトリをつくり、ローカルリポジトリをリモートにあげよう](doc/remoteadd.md)
 
 ### 参考資料
 * 「Git and Github集中特訓」の動画（６〜９本目）
@@ -39,15 +39,15 @@
 * [Gitコマンド派のLesson2メモ帳](gitcmd/lesson2.md)
 
 ### 課題
-* GithubにあげたレポジトリのURLをmanabaでお知らせ下さい。
+* GithubにあげたリポジトリのURLをmanabaでお知らせ下さい。
 	* [manabaの課題へのリンク(筑波大生)](https://manaba.tsukuba.ac.jp/ct/course_785019_query_798028)
 	* [manabaの課題へのリンク(参加校生)](https://manaba.tsukuba.ac.jp/local/course_785019_query_798028)
 
-## Lesson 3: リモートレポジトリをフォークしていじろう
+## Lesson 3: リモートリポジトリをフォークしていじろう
 1. http://github.com/gitpractice-enpit/practicememo.git をフォークしよう
 2. ローカルリポジトリにクローンしよう
 3. membersディレクトリの下に<アカウント名>.mdというファイルを追加し、自己紹介を書いてコミットしよう
-4. リモートレポジトリにプッシュしよう
+4. リモートリポジトリにプッシュしよう
 
 ### 参考資料
 * 「Git and Github集中特訓」の動画（１０〜１６本目）
@@ -68,8 +68,8 @@
   * プルリクきたらすぐにマージします。そしてcollaboratorに追加します。
 
 ## Lesson 5: リセットをしてみよう
-1. practicememoのローカルレポジトリのファイルをいじってステージに上げてそれをとり消そう
-2. practicememoのローカルレポジトリのファイルをいじってコミットしてそれをとり消そう
+1. practicememoのローカルリポジトリのファイルをいじってステージに上げてそれをとり消そう
+2. practicememoのローカルリポジトリのファイルをいじってコミットしてそれをとり消そう
 
 ### 参考資料
 * 「Git and Github集中特訓」の動画（１８本目）
@@ -78,11 +78,11 @@
 * 特になし
 
 ## Lesson 6: ローカルでブランチを切ってマージしよう
-ブランチの練習ついでにForkしたレポジトリの最新状態を取り込みます。
+ブランチの練習ついでにForkしたリポジトリの最新状態を取り込みます。
 
 1. practicememoでdiaryブランチを作ろう
 2. diaryブランチにチェックアウトしてdiary/<アカウント名>.mdファイルを作って今日の作業メモを書いてコミットしよう
-3. masterにチェックアウトしてfork元のレポジトリをfetchしよう
+3. masterにチェックアウトしてfork元のリポジトリをfetchしよう
   * え、これ何やってるの？イミワカランという人は[こちら](doc/fetch_merge.md)
 4. masterにdiaryブランチをマージしよう
 
@@ -90,11 +90,11 @@
 * 「Git and Github集中特訓」の動画（２０〜２２本目）
 
 ### 課題
-* マージし終わったレポジトリをfork元にプルリクしよう
+* マージし終わったリポジトリをfork元にプルリクしよう
 
 ## Lesson 7: Fork使わないプルリクをしよう
 ### 前提
-* practicememoレポジトリのcollaboratorに追加されていること。
+* practicememoリポジトリのcollaboratorに追加されていること。
 * されていなかったらご一報ください。
 
 ### 手順
@@ -119,8 +119,8 @@
 
 ### 課題
 * practicememoの誰のpull requestにどんなコメントをしたかmanabaに報告しましょう。
-  * [manaba(筑波大生用)](https://manaba.tsukuba.ac.jp/ct/course_785019_query_801980)
-  * [manaba(参加大生用)](https://manaba.tsukuba.ac.jp/local/course_785019_query_801980)
+  * [manaba課題へのリンク(筑波大生用)](https://manaba.tsukuba.ac.jp/ct/course_785019_query_801980)
+  * [manaba課題へのリンクリポジトリ(参加大生用)](https://manaba.tsukuba.ac.jp/local/course_785019_query_801980)
 
 ## Lesson 9: プルリクされたものをマージしよう
 （近日公開予定）
