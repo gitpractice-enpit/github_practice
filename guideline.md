@@ -97,6 +97,10 @@
 * practicememoリポジトリのcollaboratorに追加されていること。
 * されていなかったらご一報ください。
 
+### 注意
+* この辺からSourceTreeでの操作方法を書いていません。
+* 下記の手順に該当する操作方法でわからないところがあったら、調べるかIssueで質問してください。
+
 ### 手順
 1. practicememoのmasterブランチでpullしよう
 2. <アカウント名>_<diary>ブランチを作ってチェックアウトしよう
@@ -143,7 +147,15 @@
 * 書籍「GitHub実践入門」の第７章 「Pull Requestが送られてきたら」
 
 ## Lesson 10: Issueを使ってみよう
-（近日公開予定）
+* GithubのWebページのIssueは、リポジトリで管理されているプロダクトに関しての問題や課題を管理するところです。プロダクトに関しても問題やこれから追加してほしいことなどがあればIssueに書きましょう。
+* チーム開発のタスク管理をIssueを使って行うと、情報が一元化できます。（参考資料を参照）
+### 手順
+1. gitpractice-enpitまたはpracticememoのIssueに何か希望等を書き込んでみましょう。
+### 課題
+* Issueの記録（どのリポジトリに何のIssueを投げたか）をmanabaに報告しましょう。
+
+### 参考資料
+* [開発者のタスク管理をGithubで行ったらうまくいった話(Developers.IO)](http://dev.classmethod.jp/tool/git/github-issue-driven-dev/)
 
 ## Lesson 11: Issueを解決してみよう
 （近日公開予定）
