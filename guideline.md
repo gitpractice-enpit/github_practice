@@ -124,7 +124,7 @@
 ### 課題
 * practicememoの誰のpull requestにどんなコメントをしたかmanabaに報告しましょう。
   * [manaba課題へのリンク(筑波大生用)](https://manaba.tsukuba.ac.jp/ct/course_785019_query_801980)
-  * [manaba課題へのリンクリポジトリ(参加大生用)](https://manaba.tsukuba.ac.jp/local/course_785019_query_801980)
+  * [manaba課題へのリンク(参加大生用)](https://manaba.tsukuba.ac.jp/local/course_785019_query_801980)
 
 ## Lesson 9: プルリクされたものをマージしよう
 1. practicememoのpull requestリストからマージするものを選びましょう
@@ -142,6 +142,8 @@
 ### 課題
 * マージしたプルリクエストの情報をmanabaに報告しましょう。
    * クローズしたpull requestのURLを貼ってください。 
+   * [manaba課題へのリンク（筑波大生用）](https://manaba.tsukuba.ac.jp/ct/course_785019_query_803957)
+   * [manaba課題へのリンク（他大生用）](https://manaba.tsukuba.ac.jp/local/course_785019_query_803957)
 
 ### 参考資料
 * 書籍「GitHub実践入門」の第７章 「Pull Requestが送られてきたら」
