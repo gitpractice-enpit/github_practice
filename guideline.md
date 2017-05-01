@@ -151,10 +151,14 @@
 ## Lesson 10: Issueを使ってみよう
 * GithubのWebページのIssueは、リポジトリで管理されているプロダクトに関しての問題や課題を管理するところです。プロダクトに関しても問題やこれから追加してほしいことなどがあればIssueに書きましょう。
 * チーム開発のタスク管理をIssueを使って行うと、情報が一元化できます。（参考資料を参照）
+
 ### 手順
 1. gitpractice-enpitまたはpracticememoのIssueに何か希望等を書き込んでみましょう。
+
 ### 課題
 * Issueの記録（どのリポジトリに何のIssueを投げたか）をmanabaに報告しましょう。
+* [manaba課題へのリンク（筑波大生用）](https://manaba.tsukuba.ac.jp/ct/course_785019_query)
+* [manaba課題へのリンク（他大生用）](https://manaba.tsukuba.ac.jp/local/course_785019_query)
 
 ### 参考資料
 * [開発者のタスク管理をGithubで行ったらうまくいった話(Developers.IO)](http://dev.classmethod.jp/tool/git/github-issue-driven-dev/)
