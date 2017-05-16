@@ -47,6 +47,8 @@
   * 動画は上記の書籍の3-05までの内容が含まれています。
 * GitHub実践入門 - Pull Requestによる開発の変革 - 
   * 著：大塚弘記、出版社：技術評論社
+* [GitHubカンニングペーパー](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ja.md)
+* [GIT チートシート by GitHub (PDF)](https://services.github.com/on-demand/downloads/ja/github-git-cheat-sheet.pdf)
 
 ## Git/Githubを余裕で使いこなしている人へ
 * 素晴らしい！
