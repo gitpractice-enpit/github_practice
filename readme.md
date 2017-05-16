@@ -32,7 +32,6 @@
 
 ## 自習ガイドライン
 下記のガイドラインに沿って演習を進めましょう。
-
 * [自習ガイドライン](guideline.md)
 
 ## 参考資料
@@ -41,7 +40,7 @@
 	* [やらかし対応集](doc/yarakashi.md)
 * Gitが、おもしろいほどわかる基本の使い方33
   * 著：大串肇ほか、出版社：MdNコーポレーション
-  * https://www.amazon.co.jp/dp/B00Y2FKN9C
+  * [https://www.amazon.co.jp/dp/B00Y2FKN9C](https://www.amazon.co.jp/dp/B00Y2FKN9C)
 * Git and GitHub集中特訓
   * enPiT履修者に筑波大enPiT協力企業のYassLab(https://yasslab.jp/ja)がGit and Githubチュートリアル動画を提供してくれました。詳細はmanabaをごらんください。
   * 動画は上記の書籍の3-05までの内容が含まれています。
@@ -49,6 +48,7 @@
   * 著：大塚弘記、出版社：技術評論社
 * [GitHubカンニングペーパー](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ja.md)
 * [GIT チートシート by GitHub (PDF)](https://services.github.com/on-demand/downloads/ja/github-git-cheat-sheet.pdf)
+* [こわくないGit(Slideshare)](https://www.slideshare.net/kotas/git-15276118)
 
 ## Git/Githubを余裕で使いこなしている人へ
 * 素晴らしい！
