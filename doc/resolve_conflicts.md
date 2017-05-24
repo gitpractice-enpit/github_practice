@@ -22,8 +22,8 @@ Pull Requestを送ったらコンフリクトしてしまい、どうして良�
 	
 	```
 	Auto-merging member.md
-CONFLICT (content): Merge conflict in member.md
-Automatic merge failed; fix conflicts and then commit the result.
+	CONFLICT (content): Merge conflict in member.md
+	Automatic merge failed; fix conflicts and then commit the result.
 	```
 	ファイルを開くとこんな風になってます。
 	
